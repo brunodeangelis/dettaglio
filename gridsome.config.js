@@ -1,7 +1,8 @@
 module.exports = {
   siteName: "Dettaglio",
   siteUrl: "https://dettaglio.co",
-  siteDescription: "Creamos productos digitales. Potenciamos tu negocio a través del diseño y el desarrollo.",
+  siteDescription:
+    "Digital agency that designs and develops products for the world of today. We empower business through multimedia design.",
   plugins: [
     {
       use: "gridsome-plugin-tailwindcss"
